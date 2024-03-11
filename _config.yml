@@ -21,7 +21,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Screenshot 2024-03-10 174818.png"
+  avatar           : "headshot.png"
   name             : "Eric Jiang"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate at UCLA"
